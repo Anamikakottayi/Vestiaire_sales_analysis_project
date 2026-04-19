@@ -14,7 +14,7 @@ This project analyzes an e-commerce dataset using SQL and Power BI to generate b
 - Faster shipping leads to higher conversions
 
 ## 📊 Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](sales_analysis_vestiaire_dashboard.png)
 
 ## 📂 Project Structure
 - SQL Queries for analysis
