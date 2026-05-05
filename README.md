@@ -1,4 +1,4 @@
-# 🛍️ E-Commerce Sales Analysis (SQL + Power BI)
+# 🛍️ Vestiaire Sales Insights & Business Analysis (SQL + Power BI)
 
 ## 📊 Project Overview
 This project analyzes an e-commerce dataset using SQL and Power BI to generate business insights.
